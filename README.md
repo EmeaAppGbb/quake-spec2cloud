@@ -1,3 +1,4 @@
+![Quake Container Demo](img/banner.png)
 # Quake Cloud Platform
 
 **WinQuake modernized for the cloud** — the classic Quake engine running as a headless container on Azure Container Apps, with browser-based WebRTC streaming so anyone can play from a URL.
