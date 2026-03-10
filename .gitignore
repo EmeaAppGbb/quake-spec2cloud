@@ -1,0 +1,27 @@
+
+# APM dependencies
+apm_modules/
+**/AGENTS.md
+AGENTS.md
+.apm
+
+# Build artifacts
+build/
+*.o
+*.exe
+WinQuake/build/
+/artifacts/
+
+# Quake game data (large binary files, not for repo)
+id1/
+*.pak
+
+# Zone.Identifier files (Windows download artifacts)
+*.Zone.Identifier
+
+# Go build artifacts (binary executables produced by go build)
+services/streaming-gateway/streaming-gateway
+services/session-manager/session-manager
+services/assets-api/assets-api
+services/telemetry-api/telemetry-api
+
